@@ -1,0 +1,19 @@
+.topfold {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 12px;
+}
+.home-topfold {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 12px;
+}
+.add-topfold {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+}
+.back-btn {
+  display: flex;
+}

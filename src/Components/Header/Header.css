@@ -1,0 +1,13 @@
+.header-container {
+  width: 50%;
+  background-color: aqua;
+  margin: auto;
+}
+.header {
+  display: flex;
+  background-color: aqua;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  margin: 6px 12px;
+}
